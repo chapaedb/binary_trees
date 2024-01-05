@@ -1,4 +1,3 @@
-1-binary_tree_insert_left.c
 #include "binary_trees.h"
 
 /**
